@@ -1,6 +1,6 @@
 # BrainsStorm
 
-![Banner Image](./img/banner..png)
+![Banner Image](./img/banner.png)
 
 Welcome to the landing page of **BrainsStorm**, future billion-dollar tech company. The revolution is coming, and we are excited to have you on this journey with us. This project is currently under development, but we assure you something incredible is on the way!
 
