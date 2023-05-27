@@ -2,13 +2,13 @@
 
 ![Banner Image](./img/banner.png)
 
-Welcome to the landing page of **BrainsStorm**, future billion-dollar tech company. The revolution is coming, and we are excited to have you on this journey with us. This project is currently under development, but we assure you something incredible is on the way!
+Welcome to the landing page of **BrainsStorm**. The revolution is coming, and we are excited to have you on this journey with us. This unicorn is currently under development, but we assure you something incredible is on the way!
 
 Visit our official website [BrainsStorm](https://brainsstorm.co).
 
 ## Project Overview
 
-This repository holds the 'Coming Soon' landing page for our future platform. The site is built with cutting-edge web technologies such as Three.js for 3D rendering and WebGL for graphics.
+The repository holds the 'Coming Soon' landing page for our future platform. The site is built with cutting-edge web technologies such as Three.js for 3D rendering and WebGL for graphics.
 
 ## Features
 
@@ -26,7 +26,7 @@ This repository holds the 'Coming Soon' landing page for our future platform. Th
 
 ## Future Developments
 
-Stay tuned to this space as we develop our platform, bringing the storm of innovation right to your screens!
+Stay tuned to this space as we develop our platform, bringing the storm of innovation right to your lives!
 
 ## Contributing
 
